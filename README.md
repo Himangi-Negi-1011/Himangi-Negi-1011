@@ -175,17 +175,14 @@ I believe that the best way to learn technology is by combining **strong fundame
 
 ## 🤝 Connect With Me
 
-I'm always interested in connecting with fellow developers, AI/ML enthusiasts, students, and people working on interesting technology projects.
+I'm always open to connecting with developers, AI/ML enthusiasts, students, and people interested in technology and innovation.
 
-<p align="center">
-  <a href="https://github.com/Himangi-Negi-1011">
-    <img src="https://img.shields.io/badge/GitHub-Himangi--Negi--1011-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/himangi-undefined-04849440a">
-  <img src="https://img.shields.io/badge/LinkedIn-Himangi%20Negi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</p>
+- 💻 [GitHub](https://github.com/Himangi-Negi-1011)
+- 💼 [LinkedIn](https://www.linkedin.com/in/himangi-undefined-04849440a)
+- 📧 [Gmail](mailto:himanginegi1011@gmail.com)
+- ✈️ [Telegram](https://t.me/Hima_ngi1011)
 
+### 💻 AI & Machine Learning • 🐍 Python • 📊 Data Science
 
 ---
 
