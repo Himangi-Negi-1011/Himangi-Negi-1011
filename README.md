@@ -203,3 +203,16 @@ If you find any of my projects interesting, feel free to ⭐ the repository and 
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge" />
 </p>
+
+### 💻 Programming & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
