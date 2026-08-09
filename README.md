@@ -194,3 +194,12 @@ If you find any of my projects interesting, feel free to ⭐ the repository and 
 <p align="center">
   <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
 </p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge" />
+</p>
