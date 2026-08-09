@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Himangi+Negi;Aspiring+AI+%26+Machine+Learning+Developer;Python+%7C+Data+Science+%7C+Artificial+Intelligence" alt="Typing SVG" />
+</p>
 # Hi, I'm Himangi Negi 👋
 
 ### 🤖 Aspiring AI & Machine Learning Developer | CSE Student | Data Science Enthusiast
