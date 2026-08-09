@@ -181,7 +181,11 @@ I'm always interested in connecting with fellow developers, AI/ML enthusiasts, s
   <a href="https://github.com/Himangi-Negi-1011">
     <img src="https://img.shields.io/badge/GitHub-Himangi--Negi--1011-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/himangi-undefined-04849440a">
+  <img src="https://img.shields.io/badge/LinkedIn-Himangi%20Negi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
+
 
 ---
 
